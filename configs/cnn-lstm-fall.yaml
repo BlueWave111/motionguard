@@ -1,0 +1,4 @@
+# 30 steps at the default 15 Hz span about two seconds.
+window: 30
+stride: 4
+channels: 64

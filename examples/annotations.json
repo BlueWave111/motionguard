@@ -1,0 +1,8 @@
+{
+  "reviewed_labels": ["fall", "stumble", "collapse_to_sit", "cough_sneeze", "holding_suspected_pain_area", "vomit_like", "seizure_like"],
+  "events": [
+    {"label": "stumble", "start": 4.2, "end": 5.3},
+    {"label": "fall", "start": 5.1, "end": 6.4},
+    {"label": "holding_suspected_pain_area", "start": 6.0, "end": 10.0}
+  ]
+}

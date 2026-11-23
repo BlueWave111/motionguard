@@ -1,0 +1,9 @@
+# Five-epoch fall training with higher weight for reviewed ADL negatives.
+window: 30
+stride: 8
+channels: 64
+epochs: 5
+batch_size: 64
+seed: 47
+fall_only: true
+adl_negative_weight: 3.0
